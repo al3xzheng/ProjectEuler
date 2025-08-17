@@ -1,0 +1,3 @@
+https://projecteuler.net/problem=secret
+https://projecteuler.net/problem=18i
+https://projecteuler.net/problem=-1
